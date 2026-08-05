@@ -110,10 +110,10 @@ A modern portfolio showcasing projects, experience, and technical skills.
 https://jhobet-portfolio.vercel.app
 
 💼 **LinkedIn**  
-https://linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/jhobetmichaelbea/
 
 📧 **Email**  
-YOUR_EMAIL
+jhobet0227@gmail.com
 
 ---
 
