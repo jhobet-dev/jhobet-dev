@@ -1,6 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Jhobet Banner"/>
+</p>
 
-# Building software. Building automation. Building startups.
+<div align="center">
 
 ### Full Stack Developer • AI Automation Engineer • CTO @ Fixora
 
