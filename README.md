@@ -11,9 +11,9 @@ I build scalable applications, AI-powered workflows, and modern digital products
 <p>
   <a href="https://jhobet-portfolio.vercel.app">🌐 Portfolio</a>
   •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jhobetmichaelbea/">LinkedIn</a>
   •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:jhobet0227@gmail.com">Email</a>
 </p>
 
 </div>
