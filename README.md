@@ -90,7 +90,15 @@ A modern portfolio showcasing projects, experience, and technical skills.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhobet-dev&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhobet-dev&theme=github-dark&hide_border=true" alt="GitHub Contribution Activity"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
