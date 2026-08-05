@@ -4,16 +4,16 @@
 
 <div align="center">
 
-### Full Stack Developer • AI Automation Engineer • CTO @ Fixora
+<a href="https://github.com/jhobet-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Automation+Engineer;CTO+%40+Fixora;Building+Products+That+Solve+Real+Problems" alt="Typing SVG" />
+</a>
 
 I build scalable applications, AI-powered workflows, and modern digital products that solve real-world problems.
 
 <p>
-  <a href="https://jhobet-portfolio.vercel.app">🌐 Portfolio</a>
+  <a href="https://jhobet-portfolio.vercel.app/">🌐 Portfolio</a>
   •
-  <a href="https://www.linkedin.com/in/jhobetmichaelbea/">LinkedIn</a>
-  •
-  <a href="mailto:jhobet0227@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/jhobetmichaelbea/">💼 LinkedIn</a>
 </p>
 
 </div>
